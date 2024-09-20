@@ -1,0 +1,3 @@
+/home/dpy/Desktop/CODE/opencv_project/build/CMakeFiles/rebuild_cache.dir
+/home/dpy/Desktop/CODE/opencv_project/build/CMakeFiles/edit_cache.dir
+/home/dpy/Desktop/CODE/opencv_project/build/CMakeFiles/OpenCV_Project.dir
